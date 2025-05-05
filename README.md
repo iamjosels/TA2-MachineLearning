@@ -19,5 +19,5 @@ El proyecto explora cómo se interconectan diversas criptomonedas, utilizando he
     - `pandas`: Para el manejo y análisis de los datos.
     - `NetworkX`: Para la creación de redes y grafos.
     - `Matplotlib`: Para la visualización de los grafos.
-- **API de CoinGecko y CoinMarketCap**: Para obtener datos actualizados sobre criptomonedas.
+- **API de CoinGecko**: Para obtener datos actualizados sobre criptomonedas.
 - **GitHub**: Para el almacenamiento y control de versiones del proyecto.
